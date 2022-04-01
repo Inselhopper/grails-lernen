@@ -59,7 +59,9 @@
                 whatever content you may choose. Below is a list of controllers that are currently deployed in
                 this application, click on each to execute its default action:
             </p>
-
+            Meion Link
+            <g:link controller="testbereich" >testbereich</g:link>
+            <g:link controller="testbereich" action="test">testbereich</g:link>
             <div id="controllers" role="navigation">
                 <h2>Available Controllers:</h2>
                 <ul>
